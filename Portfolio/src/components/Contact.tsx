@@ -70,7 +70,7 @@ const Contact = () => {
               <span>GitHub</span>
             </a>
             <a 
-              href="https://linkedin.com/in/manasvi-sharma" 
+              href="https://www.linkedin.com/in/manasvi-sharma-7a8a20251/" 
               target="_blank" 
               rel="noopener noreferrer"
               className="flex items-center gap-2 text-muted-foreground hover:text-primary transition-colors"
