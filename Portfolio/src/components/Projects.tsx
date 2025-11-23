@@ -4,12 +4,15 @@ import { ExternalLink } from "lucide-react";
 
 const projects = [
   {
-    title: "SafeShe",
-    description: "AI-powered warehouse returns management system that classifies return items using real product images. Features seamless admin workflows and reduces manual effort in return categorization.",
-    tech: ["React.js", "Node.js", "Express.js", "MongoDB", "Python", "AI/ML"],
-    date: "July 2025",
-    link: "https://drive.google.com/file/d/1bixD7omqO6WL8P_ZgqMEck495B4MCbah/view?usp=drive_link"
-  },
+  title: "Real-Time Safe Route Detection & Women’s Safety System",
+  description:
+    "A mobile app that computes the safest route for women using real crime data, along with SOS alerts and emergency contact management.",
+  tech: [
+    "React Native","Expo","Node.js","Express","MongoDB","Python","Flask","OSMnx"
+  ],
+  date: "2024 – 2025",
+  link: ""
+},
 
   {
     title: "Reloop",
